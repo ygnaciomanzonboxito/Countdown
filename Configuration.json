@@ -1,3 +1,14 @@
 {
-	"BaseTemporalFile":".\"
+    "BaseTemporalFile": ".\",
+    "UpdateLast ":" 20202020 ",
+    "ToolPlugIns ":[
+		{
+			" Name ": "QueryToolPlugIn",
+			" Version ": "1"
+		},
+		{
+			" Name ": "ExplorerDbToolPlugIn",
+			" Version ": "2"
+		},
+	]
 }
