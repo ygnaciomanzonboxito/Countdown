@@ -1,0 +1,86 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "correo_electronico": "juan.perez@example.com"
+    },
+    {
+        "nombre": "María",
+        "apellido": "García",
+        "correo_electronico": "maria.garcia@example.com"
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "González",
+        "correo_electronico": "pedro.gonzalez@example.com"
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Martínez",
+        "correo_electronico": "ana.martinez@example.com"
+    },
+    {
+        "nombre": "José",
+        "apellido": "Sánchez",
+        "correo_electronico": "jose.sanchez@example.com"
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Fernández",
+        "correo_electronico": "laura.fernandez@example.com"
+    },
+    {
+        "nombre": "David",
+        "apellido": "López",
+        "correo_electronico": "david.lopez@example.com"
+    },
+    {
+        "nombre": "Isabel",
+        "apellido": "Castro",
+        "correo_electronico": "isabel.castro@example.com"
+    },
+    {
+        "nombre": "Javier",
+        "apellido": "Ruíz",
+        "correo_electronico": "javier.ruiz@example.com"
+    },
+    {
+        "nombre": "Marta",
+        "apellido": "Hernández",
+        "correo_electronico": "marta.hernandez@example.com"
+    }, {
+        "nombre": "María",
+        "apellido": "García",
+        "correo_electronico": "maria.garcia@example.com"
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "González",
+        "correo_electronico": "pedro.gonzalez@example.com"
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Martínez",
+        "correo_electronico": "ana.martinez@example.com"
+    },
+    {
+        "nombre": "José",
+        "apellido": "Sánchez",
+        "correo_electronico": "jose.sanchez@example.com"
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Fernández",
+        "correo_electronico": "laura.fernandez@example.com"
+    },
+    {
+        "nombre": "David",
+        "apellido": "López",
+        "correo_electronico": "david.lopez@example.com"
+    },
+    {
+        "nombre": "Isabel",
+        "apellido": "Castro",
+        "correo_electronico": "isabel.castro@example.com"
+    }
+]
