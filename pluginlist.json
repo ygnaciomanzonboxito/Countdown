@@ -5,7 +5,7 @@
             "Mayor": 1,
             "Minor": 0,
             "Build": 12
-        }
+        },"Description":"documentacion data algo"
     },
 	{
         "Name": "exampleLibrary",
@@ -14,6 +14,6 @@
             "Mayor": 1,
             "Minor": 0,
             "Build": 12
-        }
+        },"Description":"documentacion"
     }
 ]
