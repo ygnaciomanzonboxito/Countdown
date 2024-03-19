@@ -1,0 +1,19 @@
+[{
+        "Name": "PlugLibrary2",
+        "Sync": false,
+        "Version": {
+            "Mayor": 1,
+            "Minor": 0,
+            "Build": 12
+        }
+    },
+	{
+        "Name": "exampleLibrary",
+        "Sync": false,
+        "Version": {
+            "Mayor": 1,
+            "Minor": 0,
+            "Build": 12
+        }
+    }
+]
